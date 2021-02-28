@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:icon="@color/black"
+        android:enabled="true"
+        android:title="홈"/>
+    <item
+        android:id="@+id/action_search"
+        android:icon="@color/purple_200"
+        android:enabled="true"
+        android:title="앨범"/>
+    <item
+        android:id="@+id/action_add_photo"
+        android:icon="@color/cardview_shadow_end_color"
+        android:enabled="true"
+        android:title="사진 업로드"/>
+    <item
+        android:id="@+id/action_facorite_alarm"
+        android:icon="@color/common_google_signin_btn_text_light_default"
+        android:enabled="true"
+        android:title="알람"/>
+    <item
+        android:id="@+id/action_account"
+        android:icon="@color/design_default_color_surface"
+        android:enabled="true"
+        android:title="계정"/>
+</menu>

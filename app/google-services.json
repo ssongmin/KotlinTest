@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311522951349",
+    "project_id": "nearhospital-1292",
+    "storage_bucket": "nearhospital-1292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311522951349:android:79957b62e2b27704f27efc",
+        "android_client_info": {
+          "package_name": "com.example.kotlintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311522951349-8m8e45cvjse8aa2keqm3kje93moqqt8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQrUChDboMF2o6fuRFLpYhss9Wbt5ryI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311522951349-8m8e45cvjse8aa2keqm3kje93moqqt8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
